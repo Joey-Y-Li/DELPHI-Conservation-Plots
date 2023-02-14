@@ -1,0 +1,905 @@
+nice: cannot set niceness: Permission denied
+/home/ubuntu/miniconda3/envs/conda_cpu/bin/python
+PRO_DIR: /work2/DELPHI_Server/Src
+TMP_DIR: /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01
+load_PSSM_DB
+XP_007957280.1  is in DELPHI's PSSM database, loading it
+XP_010619565.1  is in DELPHI's PSSM database, loading it
+XP_006163501.1  is in DELPHI's PSSM database, loading it
+XP_026236188.1  is in DELPHI's PSSM database, loading it
+NP_003131.1  is in DELPHI's PSSM database, loading it
+XP_031516893.1  is in DELPHI's PSSM database, loading it
+NP_001028008.1  is in DELPHI's PSSM database, loading it
+XP_007989133.1  is in DELPHI's PSSM database, loading it
+XP_017702627.1  is in DELPHI's PSSM database, loading it
+XP_033068180.1  is in DELPHI's PSSM database, loading it
+XP_023055354.1  is in DELPHI's PSSM database, loading it
+XP_008592556.1  is in DELPHI's PSSM database, loading it
+XP_006914983.1  is in DELPHI's PSSM database, loading it
+NP_001009240.1  is in DELPHI's PSSM database, loading it
+XP_025782865.1  is in DELPHI's PSSM database, loading it
+XP_014943355.1  is in DELPHI's PSSM database, loading it
+XP_025845083.1  is in DELPHI's PSSM database, loading it
+XP_032187797.1  is in DELPHI's PSSM database, loading it
+XP_004417191.1  is in DELPHI's PSSM database, loading it
+XP_008708181.1  is in DELPHI's PSSM database, loading it
+XP_026346741.1  is in DELPHI's PSSM database, loading it
+XP_008509196.1  is in DELPHI's PSSM database, loading it
+XP_014682972.1  is in DELPHI's PSSM database, loading it
+XP_032332100.1  is in DELPHI's PSSM database, loading it
+XP_032332089.1  is in DELPHI's PSSM database, loading it
+XP_006195462.2  is in DELPHI's PSSM database, loading it
+XP_029064024.1  is in DELPHI's PSSM database, loading it
+XP_019812159.1  is in DELPHI's PSSM database, loading it
+NP_001014407.1  is in DELPHI's PSSM database, loading it
+NP_999617.2  is in DELPHI's PSSM database, loading it
+XP_028023925.1  is in DELPHI's PSSM database, loading it
+XP_033706224.1  is in DELPHI's PSSM database, loading it
+XP_024434131.1  is in DELPHI's PSSM database, loading it
+XP_016072778.1  is in DELPHI's PSSM database, loading it
+XP_006752660.1  is in DELPHI's PSSM database, loading it
+XP_032746420.1  is in DELPHI's PSSM database, loading it
+XP_008771908.1  is in DELPHI's PSSM database, loading it
+XP_008771913.1  is in DELPHI's PSSM database, loading it
+NP_036904.1  is in DELPHI's PSSM database, loading it
+XP_017457926.1  is in DELPHI's PSSM database, loading it
+computing ECO
+INPUT_FN is /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/input.fasta
+split_program
+genMSA_program
+mkdir: cannot create directory ‘/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1/’: File exists
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//NP_001009240.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//NP_001009240.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//NP_001014407.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//NP_001014407.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//NP_001028008.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//NP_001028008.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//NP_003131.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//NP_003131.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//NP_036904.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//NP_036904.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//NP_999617.2.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//NP_999617.2.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_004417191.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_004417191.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_006163501.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_006163501.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_006195462.2.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_006195462.2.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_006752660.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_006752660.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_006914983.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_006914983.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_007957280.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_007957280.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_007989133.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_007989133.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_008509196.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_008509196.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_008592556.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_008592556.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_008708181.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_008708181.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_008771908.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_008771908.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_008771913.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_008771913.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_010619565.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_010619565.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_014682972.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_014682972.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_014943355.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_014943355.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_016072778.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_016072778.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_017457926.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_017457926.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_017702627.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_017702627.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_019812159.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_019812159.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_023055354.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_023055354.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_024434131.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_024434131.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_025782865.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_025782865.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_025845083.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_025845083.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_026236188.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_026236188.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_026346741.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_026346741.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_028023925.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_028023925.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_029064024.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_029064024.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_031516893.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_031516893.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_032187797.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_032187797.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_032332089.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_032332089.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_032332100.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_032332100.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_032746420.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_032746420.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_033068180.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_033068180.1.fasta doesn't exist, running hhblits
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/1//XP_033706224.1.fasta
+ECO file for /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO_raw/3//XP_033706224.1.fasta doesn't exist, running hhblits
+cleanPSSM_program
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+running cleanPSSM.sh
+compute_ECO_program
+errLoc errorlogfile.txt fLoc /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/ECO.txt
+listFiles ['XP_007957280.1.fasta', 'XP_010619565.1.fasta', 'XP_006163501.1.fasta', 'XP_026236188.1.fasta', 'NP_003131.1.fasta', 'XP_031516893.1.fasta', 'NP_001028008.1.fasta', 'XP_007989133.1.fasta', 'XP_017702627.1.fasta', 'XP_033068180.1.fasta', 'XP_023055354.1.fasta', 'XP_008592556.1.fasta', 'XP_006914983.1.fasta', 'NP_001009240.1.fasta', 'XP_025782865.1.fasta', 'XP_014943355.1.fasta', 'XP_025845083.1.fasta', 'XP_032187797.1.fasta', 'XP_004417191.1.fasta', 'XP_008708181.1.fasta', 'XP_026346741.1.fasta', 'XP_008509196.1.fasta', 'XP_014682972.1.fasta', 'XP_032332100.1.fasta', 'XP_032332089.1.fasta', 'XP_006195462.2.fasta', 'XP_029064024.1.fasta', 'XP_019812159.1.fasta', 'NP_001014407.1.fasta', 'NP_999617.2.fasta', 'XP_028023925.1.fasta', 'XP_033706224.1.fasta', 'XP_024434131.1.fasta', 'XP_016072778.1.fasta', 'XP_006752660.1.fasta', 'XP_032746420.1.fasta', 'XP_008771908.1.fasta', 'XP_008771913.1.fasta', 'NP_036904.1.fasta', 'XP_017457926.1.fasta']
+filename XP_007957280.1.fasta
+Count  1
+filename XP_010619565.1.fasta
+Count  2
+filename XP_006163501.1.fasta
+Count  3
+filename XP_026236188.1.fasta
+Count  4
+filename NP_003131.1.fasta
+Count  5
+filename XP_031516893.1.fasta
+Count  6
+filename NP_001028008.1.fasta
+Count  7
+filename XP_007989133.1.fasta
+Count  8
+filename XP_017702627.1.fasta
+Count  9
+filename XP_033068180.1.fasta
+Count  10
+filename XP_023055354.1.fasta
+Count  11
+filename XP_008592556.1.fasta
+Count  12
+filename XP_006914983.1.fasta
+Count  13
+filename NP_001009240.1.fasta
+Count  14
+filename XP_025782865.1.fasta
+Count  15
+filename XP_014943355.1.fasta
+Count  16
+filename XP_025845083.1.fasta
+Count  17
+filename XP_032187797.1.fasta
+Count  18
+filename XP_004417191.1.fasta
+Count  19
+filename XP_008708181.1.fasta
+Count  20
+filename XP_026346741.1.fasta
+Count  21
+filename XP_008509196.1.fasta
+Count  22
+filename XP_014682972.1.fasta
+Count  23
+filename XP_032332100.1.fasta
+Count  24
+filename XP_032332089.1.fasta
+Count  25
+filename XP_006195462.2.fasta
+Count  26
+filename XP_029064024.1.fasta
+Count  27
+filename XP_019812159.1.fasta
+Count  28
+filename NP_001014407.1.fasta
+Count  29
+filename NP_999617.2.fasta
+Count  30
+filename XP_028023925.1.fasta
+Count  31
+filename XP_033706224.1.fasta
+Count  32
+filename XP_024434131.1.fasta
+Count  33
+filename XP_016072778.1.fasta
+Count  34
+filename XP_006752660.1.fasta
+Count  35
+filename XP_032746420.1.fasta
+Count  36
+filename XP_008771908.1.fasta
+Count  37
+filename XP_008771913.1.fasta
+Count  38
+filename NP_036904.1.fasta
+Count  39
+filename XP_017457926.1.fasta
+Count  40
+computing RSA
+computing RAA
+computing HYD
+computing PKA
+computing POSITION
+computing PHY_Char
+computing PHY_Prop
+computing Pro2Vec_1D
+computing Anchor
+computing HSP
+-------------------------------------------------------------------
+In order to run SPRINT-compute HSPs, type compute_HSPs and the following options: 
+ -p <protein_file> (required)
+ -h <hsp_output_file_name> (required)
+ -Thit <an integer, the threshold Thit > (optional, default 15) 
+ -Tsim <an integer, the threshold Tsim > (optional, default 35) 
+ -M <an integer, Scoring matrix. 1: PAM120, 2: BLOSUM80, 3: BLOSUM62> (optional, default PAM120)
+ -add <new_protein_file previous_HSP_file_name> (optional, if new protein sequences are added and only HSPs in those sequences will be computed. New HSPs will be appended to previous_HSP_file. hsp_output_file_name will be ignored)
+-------------------------------------------------------------------
+PROTEIN_FN: /work2/DELPHI_Server/Src/feature_computation/HSP/SPRING_DB_14836_Pid_and_Pseq.txt
+HSP_FN: ignore_hsp.txt
+Thit: 15
+Tsim: 35
+Scoring matrix: PAM120
+{ 0, 7, 14, 15, 16, 3, 6, 19, 20, 2, 5, 9, 11, 12, 1, 4, 8, 10, 13, 18, 17, },
+{ 1, 11, 5, 8, 17, 2, 12, 14, 15, 9, 16, 20, 0, 3, 6, 19, 4, 7, 10, 13, 18, },
+{ 2, 20, 3, 8, 6, 11, 15, 5, 7, 16, 0, 1, 9, 14, 18, 12, 19, 10, 13, 17, 4, },
+{ 3, 20, 6, 2, 5, 0, 7, 8, 15, 11, 16, 1, 9, 14, 19, 12, 10, 18, 4, 13, 17, },
+{ 4, 15, 18, 0, 9, 16, 19, 1, 7, 8, 14, 2, 12, 13, 20, 3, 5, 6, 10, 11, 17, },
+{ 5, 8, 6, 1, 3, 2, 11, 14, 20, 0, 12, 10, 15, 16, 7, 9, 19, 18, 13, 17, 4, },
+{ 6, 3, 20, 5, 2, 0, 7, 8, 11, 15, 14, 16, 1, 9, 12, 19, 10, 18, 4, 13, 17, },
+{ 7, 0, 15, 2, 3, 20, 6, 16, 14, 19, 5, 11, 1, 4, 8, 9, 12, 10, 13, 18, 17, },
+{ 8, 5, 2, 1, 20, 3, 6, 14, 18, 11, 15, 0, 10, 13, 16, 17, 19, 4, 7, 9, 12, },
+{ 9, 19, 10, 12, 13, 16, 0, 1, 2, 15, 18, 3, 4, 5, 6, 11, 14, 20, 7, 8, 17, },
+{ 10, 12, 9, 19, 13, 5, 18, 0, 8, 14, 16, 17, 1, 2, 6, 11, 15, 20, 3, 7, 4, },
+{ 11, 1, 2, 5, 12, 20, 3, 6, 15, 16, 0, 8, 14, 7, 9, 10, 19, 17, 18, 4, 13, },
+{ 12, 10, 9, 19, 11, 1, 5, 13, 16, 0, 15, 2, 6, 14, 3, 7, 8, 18, 20, 4, 17, },
+{ 13, 18, 9, 10, 12, 17, 8, 15, 19, 0, 2, 16, 1, 7, 14, 20, 4, 5, 3, 6, 11, },
+{ 14, 0, 15, 5, 1, 8, 16, 2, 6, 7, 11, 19, 20, 3, 9, 10, 12, 4, 13, 18, 17, },
+{ 15, 16, 0, 2, 7, 14, 3, 4, 20, 1, 6, 11, 5, 8, 9, 12, 17, 19, 13, 18, 10, },
+{ 16, 15, 0, 2, 9, 19, 20, 3, 7, 11, 12, 14, 1, 5, 6, 4, 8, 10, 18, 13, 17, },
+{ 17, 1, 13, 15, 18, 8, 10, 2, 11, 5, 9, 12, 16, 20, 0, 14, 3, 4, 6, 7, 19, },
+{ 18, 13, 4, 8, 2, 9, 10, 17, 15, 16, 19, 20, 0, 12, 1, 3, 5, 6, 11, 7, 14, },
+{ 19, 9, 10, 12, 0, 16, 7, 14, 15, 1, 2, 3, 4, 5, 6, 8, 13, 18, 20, 11, 17, },
+{ 3, 20, 2, 6, 8, 0, 5, 7, 11, 15, 16, 1, 14, 9, 18, 19, 10, 12, 13, 4, 17, },
+-----------compute_hsps starts--------
+reading added protein sequences from: /work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/input.fasta
+Number of Proteins: 14876
+-------initialize the hash tables-----
+[warning]: RAA_dict can't find  X . Returning 0
+[warning]: RAA_dict can't find  X . Returning 0
+[warning]: Feature_dict can't find  SXH . Returning 0
+[warning]: Feature_dict can't find  XHC . Returning 0
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4265
+    MAIN:      0.4360
+    MAIN:      0.4504
+    MAIN:      0.4287
+    MAIN:      0.4905
+Relative ASA (rasa) prediction in asaq.NP_001009240.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.NP_001009240.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4191
+    MAIN:      0.4582
+    MAIN:      0.4356
+    MAIN:      0.4117
+    MAIN:      0.4491
+Relative ASA (rasa) prediction in asaq.NP_001014407.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.NP_001014407.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4469
+    MAIN:      0.4583
+    MAIN:      0.5054
+    MAIN:      0.4382
+    MAIN:      0.4961
+Relative ASA (rasa) prediction in asaq.NP_001028008.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.NP_001028008.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4288
+    MAIN:      0.4424
+    MAIN:      0.4747
+    MAIN:      0.4374
+    MAIN:      0.4968
+Relative ASA (rasa) prediction in asaq.NP_003131.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.NP_003131.1.fasta/asaq.pred, last colums is error estimate in percent
+-----------Investigating the HSP table--------
+-----------Investigating the first hashtalbe (total: 4)
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4409
+    MAIN:      0.5271
+    MAIN:      0.4818
+    MAIN:      0.4805
+    MAIN:      0.5008
+Relative ASA (rasa) prediction in asaq.NP_036904.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.NP_036904.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.3846
+    MAIN:      0.4198
+    MAIN:      0.4284
+    MAIN:      0.4199
+    MAIN:      0.4189
+Relative ASA (rasa) prediction in asaq.NP_999617.2.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.NP_999617.2.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4179
+    MAIN:      0.4253
+    MAIN:      0.4148
+    MAIN:      0.3822
+    MAIN:      0.4314
+Relative ASA (rasa) prediction in asaq.XP_004417191.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_004417191.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4012
+    MAIN:      0.3802
+    MAIN:      0.4202
+    MAIN:      0.3952
+    MAIN:      0.4487
+Relative ASA (rasa) prediction in asaq.XP_006163501.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_006163501.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.3975
+    MAIN:      0.4100
+    MAIN:      0.4076
+    MAIN:      0.4230
+    MAIN:      0.4249
+Relative ASA (rasa) prediction in asaq.XP_006195462.2.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_006195462.2.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4308
+    MAIN:      0.4077
+    MAIN:      0.4313
+    MAIN:      0.3916
+    MAIN:      0.4454
+Relative ASA (rasa) prediction in asaq.XP_006752660.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_006752660.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4242
+    MAIN:      0.4615
+    MAIN:      0.4395
+    MAIN:      0.4235
+    MAIN:      0.4802
+Relative ASA (rasa) prediction in asaq.XP_006914983.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_006914983.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4101
+    MAIN:      0.4364
+    MAIN:      0.4604
+    MAIN:      0.4556
+    MAIN:      0.4461
+Relative ASA (rasa) prediction in asaq.XP_007957280.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_007957280.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4337
+    MAIN:      0.4435
+    MAIN:      0.4862
+    MAIN:      0.4244
+    MAIN:      0.4830
+Relative ASA (rasa) prediction in asaq.XP_007989133.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_007989133.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4307
+    MAIN:      0.4160
+    MAIN:      0.4201
+    MAIN:      0.3971
+    MAIN:      0.4402
+Relative ASA (rasa) prediction in asaq.XP_008509196.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_008509196.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4095
+    MAIN:      0.4461
+    MAIN:      0.4354
+    MAIN:      0.4228
+    MAIN:      0.4287
+Relative ASA (rasa) prediction in asaq.XP_008592556.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_008592556.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4386
+    MAIN:      0.4559
+    MAIN:      0.4634
+    MAIN:      0.4269
+    MAIN:      0.4624
+Relative ASA (rasa) prediction in asaq.XP_008708181.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_008708181.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4646
+    MAIN:      0.5197
+    MAIN:      0.4892
+    MAIN:      0.4955
+    MAIN:      0.5163
+Relative ASA (rasa) prediction in asaq.XP_008771908.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_008771908.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4567
+    MAIN:      0.5253
+    MAIN:      0.4829
+    MAIN:      0.4822
+    MAIN:      0.5127
+Relative ASA (rasa) prediction in asaq.XP_008771913.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_008771913.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4102
+    MAIN:      0.4445
+    MAIN:      0.4057
+    MAIN:      0.4012
+    MAIN:      0.4294
+Relative ASA (rasa) prediction in asaq.XP_010619565.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_010619565.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4266
+    MAIN:      0.4254
+    MAIN:      0.4288
+    MAIN:      0.3941
+    MAIN:      0.4523
+Relative ASA (rasa) prediction in asaq.XP_014682972.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_014682972.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4195
+    MAIN:      0.4353
+    MAIN:      0.4448
+    MAIN:      0.4266
+    MAIN:      0.4856
+Relative ASA (rasa) prediction in asaq.XP_014943355.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_014943355.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4428
+    MAIN:      0.4363
+    MAIN:      0.4615
+    MAIN:      0.4334
+    MAIN:      0.4607
+Relative ASA (rasa) prediction in asaq.XP_016072778.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_016072778.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4594
+    MAIN:      0.5399
+    MAIN:      0.4821
+    MAIN:      0.5009
+    MAIN:      0.5274
+Relative ASA (rasa) prediction in asaq.XP_017457926.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_017457926.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4439
+    MAIN:      0.4608
+    MAIN:      0.5098
+    MAIN:      0.4555
+    MAIN:      0.5118
+Relative ASA (rasa) prediction in asaq.XP_017702627.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_017702627.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4170
+    MAIN:      0.4537
+    MAIN:      0.4344
+    MAIN:      0.4078
+    MAIN:      0.4481
+Relative ASA (rasa) prediction in asaq.XP_019812159.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_019812159.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4463
+    MAIN:      0.4558
+    MAIN:      0.5003
+    MAIN:      0.4563
+    MAIN:      0.5058
+Relative ASA (rasa) prediction in asaq.XP_023055354.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_023055354.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4324
+    MAIN:      0.4240
+    MAIN:      0.4327
+    MAIN:      0.4200
+    MAIN:      0.4219
+Relative ASA (rasa) prediction in asaq.XP_024434131.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_024434131.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4271
+    MAIN:      0.4360
+    MAIN:      0.4360
+    MAIN:      0.4260
+    MAIN:      0.4942
+Relative ASA (rasa) prediction in asaq.XP_025782865.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_025782865.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4587
+    MAIN:      0.4598
+    MAIN:      0.4461
+    MAIN:      0.4476
+    MAIN:      0.4884
+Relative ASA (rasa) prediction in asaq.XP_025845083.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_025845083.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4739
+    MAIN:      0.4612
+    MAIN:      0.4591
+    MAIN:      0.4415
+    MAIN:      0.4964
+Relative ASA (rasa) prediction in asaq.XP_026236188.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_026236188.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4307
+    MAIN:      0.4426
+    MAIN:      0.4562
+    MAIN:      0.4217
+    MAIN:      0.4502
+Relative ASA (rasa) prediction in asaq.XP_026346741.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_026346741.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4098
+    MAIN:      0.4292
+    MAIN:      0.4362
+    MAIN:      0.4209
+    MAIN:      0.4716
+Relative ASA (rasa) prediction in asaq.XP_028023925.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_028023925.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4462
+    MAIN:      0.4485
+    MAIN:      0.4479
+    MAIN:      0.4289
+    MAIN:      0.4830
+Relative ASA (rasa) prediction in asaq.XP_029064024.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_029064024.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4368
+    MAIN:      0.4538
+    MAIN:      0.4978
+    MAIN:      0.4264
+    MAIN:      0.4958
+Relative ASA (rasa) prediction in asaq.XP_031516893.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_031516893.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4166
+    MAIN:      0.4453
+    MAIN:      0.4348
+    MAIN:      0.4304
+    MAIN:      0.4836
+Relative ASA (rasa) prediction in asaq.XP_032187797.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_032187797.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.3968
+    MAIN:      0.4127
+    MAIN:      0.4063
+    MAIN:      0.4183
+    MAIN:      0.4257
+Relative ASA (rasa) prediction in asaq.XP_032332089.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_032332089.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.3876
+    MAIN:      0.4049
+    MAIN:      0.3966
+    MAIN:      0.4168
+    MAIN:      0.4089
+Relative ASA (rasa) prediction in asaq.XP_032332100.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_032332100.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4538
+    MAIN:      0.5481
+    MAIN:      0.4936
+    MAIN:      0.4908
+    MAIN:      0.5176
+Relative ASA (rasa) prediction in asaq.XP_032746420.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_032746420.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4393
+    MAIN:      0.4530
+    MAIN:      0.4972
+    MAIN:      0.4493
+    MAIN:      0.5025
+Relative ASA (rasa) prediction in asaq.XP_033068180.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_033068180.1.fasta/asaq.pred, last colums is error estimate in percent
+ GEneral Neural Network (predict), V2.2 2011 (c) -h for help
+ Eshel Faraggi, efaraggi@gmail.com
+ You Must Obtain a License From Above Address to Use GENN
+ Weights file: /work2/DELPHI_Server/programs/GENN+ASAquick/ASAquick/ASAq.wei/ASAquick.gl1.wei
+     INS/OUTS:        blosnorm        physpar              /     asa2minmax
+    MAIN:      0.4387
+    MAIN:      0.4498
+    MAIN:      0.4632
+    MAIN:      0.4314
+    MAIN:      0.4819
+Relative ASA (rasa) prediction in asaq.XP_033706224.1.fasta/rasaq.pred, last colums is STDEV
+ASA prediction in asaq.XP_033706224.1.fasta/asaq.pred, last colums is error estimate in percent
+HSP table 0 took me (2785.887451 seconds).
+-----------Investigating the second hashtalbe (total: 4)
+HSP table 1 took me (3188.241699 seconds).
+-----------Investigating the third hashtalbe (total: 4)
+HSP table 2 took me (2889.083252 seconds).
+-----------Investigating the fourth hashtalbe (total: 4)
+HSP table 3 took me (2779.751221 seconds).
+----------output the HSP_PAIRS-------
+-----------compute_hsps finished--------
+computing PSSM
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/NP_001009240.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/NP_001014407.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/NP_001028008.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/NP_003131.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/NP_036904.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/NP_999617.2.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_004417191.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_006163501.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_006195462.2.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_006752660.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_006914983.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_007957280.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_007989133.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_008509196.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_008592556.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_008708181.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_008771908.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_008771913.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_010619565.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_014682972.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_014943355.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_016072778.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_017457926.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_017702627.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_019812159.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_023055354.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_024434131.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_025782865.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_025845083.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_026236188.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_026346741.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_028023925.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_029064024.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_031516893.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_032187797.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_032332089.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_032332100.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_032746420.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_033068180.1.fasta.pssm already exist
+/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/PSSM_raw/1/XP_033706224.1.fasta.pssm already exist
+XP_007957280.1
+XP_010619565.1
+XP_006163501.1
+XP_026236188.1
+NP_003131.1
+XP_031516893.1
+NP_001028008.1
+XP_007989133.1
+XP_017702627.1
+XP_033068180.1
+XP_023055354.1
+XP_008592556.1
+XP_006914983.1
+NP_001009240.1
+XP_025782865.1
+XP_014943355.1
+XP_025845083.1
+XP_032187797.1
+XP_004417191.1
+XP_008708181.1
+XP_026346741.1
+XP_008509196.1
+XP_014682972.1
+XP_032332100.1
+XP_032332089.1
+XP_006195462.2
+XP_029064024.1
+XP_019812159.1
+NP_001014407.1
+NP_999617.2
+XP_028023925.1
+XP_033706224.1
+XP_024434131.1
+XP_016072778.1
+XP_006752660.1
+XP_032746420.1
+XP_008771908.1
+XP_008771913.1
+NP_036904.1
+XP_017457926.1
+max_value:  13.0
+min_value:  -16.0
+Using TensorFlow backend.
+[INFO] line 71: Program started: 2020-06-21 16:59:31
+[INFO] line 49: Parsing program arguments...
+[INFO] line 71: Loading feature ECO: 2020-06-21 16:59:31
+[INFO] line 71: Loading feature RAA: 2020-06-21 16:59:31
+[INFO] line 71: Loading feature RSA: 2020-06-21 16:59:31
+[INFO] line 71: Loading feature Anchor: 2020-06-21 16:59:31
+[INFO] line 71: Loading feature HYD: 2020-06-21 16:59:31
+[INFO] line 71: Loading feature PKA: 2020-06-21 16:59:31
+[INFO] line 71: Loading feature Pro2Vec_1D: 2020-06-21 16:59:31
+[INFO] line 71: Loading feature HSP: 2020-06-21 16:59:31
+[INFO] line 71: Loading feature POSITION: 2020-06-21 16:59:31
+[INFO] line 71: Loading feature PHY_Char: 2020-06-21 16:59:31
+[INFO] line 71: Loading feature PHY_Prop: 2020-06-21 16:59:31
+[INFO] line 71: Loading feature PSSM: 2020-06-21 16:59:31
+[INFO] line 71: Loading features done: 2020-06-21 16:59:31
+[INFO] line 71: Assembling 12 features: 2020-06-21 16:59:32
+[INFO] line 71: Start predicting: 2020-06-21 16:59:32
+[INFO] line 71: using the CPU model: 2020-06-21 16:59:32
+2020-06-21 16:59:33.355830: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2
+[INFO] line 71: Start predicting...: 2020-06-21 16:59:33
+[INFO] line 71: End predicting: 2020-06-21 16:59:36
+[INFO] line 71: Program ended: 2020-06-21 16:59:36
+program arguments are:  Namespace(cpu=1, input_fn='/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/input.fasta', out_dir='/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01/out', tmp_dir='/work2/DELPHI_Server/Src/tmp/tmp-2020-06-21-16-30-01')
